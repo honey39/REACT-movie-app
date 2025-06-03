@@ -15,6 +15,8 @@ A responsive and interactive movie browsing application built using **React**. U
 
 ---
 
+```
+
 ## 📁 Folder Structure
 
 D:/REACT
@@ -37,6 +39,7 @@ D:/REACT
 ├── vite.config.js
 ├── package.json
 └── README.md
+```
 
 ---
 
